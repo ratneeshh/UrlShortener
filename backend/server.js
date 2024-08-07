@@ -1,11 +1,11 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const cors = require('cors'); // Add this line
+const cors = require('cors'); 
 
 const app = express();
 const PORT = 5000;
 
-app.use(cors()); // Add this line
+app.use(cors()); 
 app.use(express.json());
 
 const urlSchema = new mongoose.Schema({
