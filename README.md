@@ -1,4 +1,4 @@
-# URL Shortener (MERN Stack + HashMap(Java))
+# URL Shortener [MERN Stack + HashMap(Java)]
 
 ## Overview
 
